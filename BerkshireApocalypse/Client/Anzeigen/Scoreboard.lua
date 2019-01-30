@@ -130,7 +130,7 @@ function scoreboard.render()
     dxDrawText(language[language.get(localPlayer)][5][8], 1037*(x/1440), 287*(y/900), 1072*(x/1440), 308*(y/900), tocolor(255, 255, 255, 255), 1.00, "default-bold", "center", "center", false, false, false, false, false)
     dxDrawLine(359*(x/1440), 312*(y/900), 1081*(x/1440), 312*(y/900), tocolor(255, 255, 255, 255), 2, false)
 	
-	di = 1
+	di = 0
 	for i = 1+scoreboard.scroll,12+scoreboard.scroll do
 		if(pl[i])then
 			dxDrawText(pl[i].Name, 368*(x/1440), 322*(y/900)+(17*di)+13, 478*(x/1440), 343*(y/900)+(17*di)+13, tocolor(pl[i].Color[1],pl[i].Color[2],pl[i].Color[3], 255), 1.00, "default-bold", "center", "center", false, false, false, false, false)
