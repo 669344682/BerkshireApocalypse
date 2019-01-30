@@ -32,6 +32,6 @@ addEventHandler("waffenladen.buy",root,function(weapon)
 			giveWeapon(client,waffenladen["Artikel"][weapon][2],waffenladen["Artikel"][weapon][3],true);
 			infobox.create(client,language[language.get(client)][6][1]..weapon..language[language.get(client)][6][2]..waffenladen["Artikel"][weapon][3]..language[language.get(client)][6][3],"info");
 			Achievements.set(client,"ErsteWaffeGekauft",13);
-		else infobox.create(client,language[language.get(client)][6][4].."("..waffenladen["Artikel"][weapon][1].."$)","error")end
+		else infobox.create(client,language[language.get(client)][6][4].." ("..waffenladen["Artikel"][weapon][1].."$)","error")end
 	else infobox.create(client,language[language.get(client)][3][1]..waffenladen["Artikel"][weapon][4]..language[language.get(client)][6][5],"error")end
 end)
