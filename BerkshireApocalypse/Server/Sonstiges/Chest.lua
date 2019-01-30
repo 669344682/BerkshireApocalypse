@@ -12,7 +12,7 @@ local daytable = {"So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"};
 dbExec(handler,"UPDATE userdata SET weeklychest = '0'");
 
 function chest.weeklyFree(player)
-	local realtime = getRealTime()
+	--[[ local realtime = getRealTime()
 	local day = daytable[realtime.weekday+1]
 
 	if(day == "Fr")then
@@ -21,5 +21,5 @@ function chest.weeklyFree(player)
 			infobox.create(player,language[language.get(player)][8][1],"info");
 			setElementData(player,"weeklychest",1);
 		end
-	end
+	end ]]--
 end
