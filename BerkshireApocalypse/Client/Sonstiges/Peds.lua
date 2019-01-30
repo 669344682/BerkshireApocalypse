@@ -6,14 +6,13 @@
 
 ]]--
 
-peds = {colsphere = {},
+peds = {
 	-- ID, x, y, z, rotation, text
 	{100,-1968.5,114.30000305176,27.700000762939,0,"waffenladen.open"}, -- Waffenladen am Bahnhof
 	{248,-1974.9,162.60000610352,27.700000762939,180,"team.create"}, -- Team gründen
 	{114,-1973.5,162.60000610352,27.700000762939,180,"updates.create"}, -- Updates
 	{299,-1972.1,162.60000610352,27.700000762939,180,"skinshop.open"}, -- Skinshop
 	{181,-1970.7,162.60000610352,27.700000762939,180,"spenden.window"}, -- Spenden
-	{130,-1981.4000244141,109.59999847412,27.700000762939,90,"ostern.open"}, -- Event
 	{141,-1962.1999511719,156.69999694824,27.700000762939,90,"coinshop.open"}, -- Coinshop
 	{26,-1962.1999511719,155.29999694824,27.700000762939,90,"Topliste.window"},} -- Topliste
 	
@@ -22,7 +21,6 @@ function peds.load()
 		peds.ped = createPed(v[1],v[2],v[3],v[4],v[5]);
 		setElementFrozen(peds.ped,true);
 		setElementData(peds.ped,"event",v[6]);
-		peds.colsphere = createColSphere(v[2],v[3],v[4],3.5);
 		
 		addEventHandler("onClientPedDamage",peds.ped,function()
 			cancelEvent();
