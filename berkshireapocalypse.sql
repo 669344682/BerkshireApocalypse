@@ -105,6 +105,7 @@ CREATE TABLE `premium` (
 --
 
 CREATE TABLE `teams` (
+  `id` int(11) NOT NULL,
   `name` text NOT NULL,
   `besitzer` text NOT NULL,
   `kasse` int(11) NOT NULL DEFAULT '0'
