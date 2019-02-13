@@ -1,4 +1,4 @@
-# Berkshire Apocalypse v.1.0.1 - Beta
+# Berkshire Apocalypse v.1.0.2 - Beta
 
 ### Allgemeine Informationen
 
