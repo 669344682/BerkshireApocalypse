@@ -6,7 +6,7 @@ Berkshire Apocalypse ist ein Zombie Apocalypse Gamemode; er wurde von Xendom Ray
 
 ### Wichtiges
 
-Fragen, Probleme, Anmerkungen, Vorschläge o.Ä. können unter "Issues" eingereicht werden. Und eine kleine Information, für alle geistig beschränkten, die denken, irgendjemand auf diesem Planeten könnte mit "Das funktioniert nicht" etwas anfangen: Eine ausführliche Beschreibung eures Problems ist notwendig, sonst kann niemand helfen.
+Fragen, Probleme, Anmerkungen, Vorschläge o.Ä. können unter 'Isseues' eingereicht werden. Bei Problemen bitte bedenken, dass eine ausführliche Beschreibung benötigt wird, damit geholfen werden kann!
 
 ### Sonstiges
 
