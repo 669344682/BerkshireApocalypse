@@ -2,7 +2,8 @@
 
 ### Allgemeine Informationen
 
-Berkshire Apocalypse ist ein Zombie Apocalypse Gamemode; er wurde von Xendom Rayden entwickelt. Das Grundgerüst des Gamemode ist 2018 im Februar entstanden. Anschließend wurde ein Server mit dem Gamemode eröffnet, welcher bis Mitte Mai hielt und anschließend geschlossen wurde, wodurch die Entwicklung ebenfalls beendet wurde. Vorerst.    Anfang 2019 wurde die Entwicklung wieder aufgenommen. Die Aufgabe des Spielers ist es, Zombies zu töten. Dadurch verdient dieser Geld und Erfahrungspunkte. Desto höher das Level, desto größer die Auswahl möglicher Waffen und Fahrzeuge. Mit Geld kann man unter anderem ein eigenes Team gründen, wodurch man einige Vorteile erhält.
+Berkshire Apocalypse ist ein Zombie Apocalypse Gamemode; er wurde von Xendom Rayden entwickelt. Das Grundgerüst des Gamemode ist 2018 im Februar entstanden. Anschließend wurde ein Server mit dem Gamemode eröffnet, welcher bis Mitte Mai hielt und anschließend geschlossen wurde, wodurch die Entwicklung ebenfalls beendet wurde. Vorerst.   
+Anfang 2019 wurde die Entwicklung wieder aufgenommen. Die Aufgabe des Spielers ist es, Zombies zu töten. Dadurch verdient dieser Geld und Erfahrungspunkte. Desto höher das Level, desto größer die Auswahl möglicher Waffen und Fahrzeuge. Mit Geld kann man unter anderem ein eigenes Team gründen, wodurch man einige Vorteile erhält.
 
 ### Wichtiges
 
