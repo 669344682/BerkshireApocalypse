@@ -147,7 +147,7 @@ end
 addEventHandler("onPlayerQuit",root,function()
 	if(getElementData(source,"loggedin") == 1)then
 		Teamsystem.updateBlips();
-		Register.savePlayerDatas(source);
+		RegisterLogin.savePlayerDatas(source);
 		if(isTimer(Payday[source]))then killTimer(Payday[source])end
 	end
 end)
